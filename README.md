@@ -1,4 +1,7 @@
 # InsightCodingChallengeShashank
+Hi,
+Please note - 
+
 JAR dependencies: 
 Please add json-20140107 to classpath
 
